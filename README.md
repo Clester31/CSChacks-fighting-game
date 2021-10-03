@@ -8,8 +8,15 @@ For our CSC hacks project, we all wanted to create a game that was simple to und
 Christian Lester
 * Pitt CS, 2025
 * CCL31@pitt.edu
-* Clester050 in the CSC Discord
 
 Rohan Walia
+* Pitt CS, 2025
+*
+
 Seth Pittsburg
+*
+*
+
 Daniel Hiss
+*
+*
