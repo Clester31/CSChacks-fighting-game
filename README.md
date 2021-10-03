@@ -7,7 +7,7 @@ For our CSC hacks project, we all wanted to create a game that was simple to und
 ## Team Information
 Christian Lester
 * Pitt CS, 2025
-* CCL31n@pitt.edu
+* CCL31@pitt.edu
 * Clester050 in the CSC Discord
 
 Rohan Walia
