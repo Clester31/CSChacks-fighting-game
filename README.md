@@ -6,12 +6,12 @@ For our CSC hacks project, we all wanted to create a game that was simple to und
 
 ## Team Information
 Christian Lester
-* Pitt CS, 2025
+* Computer Science, Class of 2025
 * CCL31@pitt.edu
 
 Rohan Walia
-* Pitt CS, 2025
-*
+* Computer Science, Class of 2025
+* row67@pitt.edu
 
 Seth Pittsburg
 *
