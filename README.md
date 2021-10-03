@@ -7,7 +7,7 @@ For our CSC hacks project, we all wanted to create a game that was simple to und
 ## Team Information
 Christian Lester
 * Computer Science, Class of 2025
-* CCL31@pitt.edu
+* ccl31@pitt.edu
 
 Rohan Walia
 * Computer Science, Class of 2025
