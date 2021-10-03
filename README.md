@@ -14,9 +14,9 @@ Rohan Walia
 * row67@pitt.edu
 
 Seth Pittsburg
-*
-*
+* Computer Science, Class of 2025
+* sbp34@pitt.edu
 
 Daniel Hiss
-*
-*
+* Digital Narrative and Interactive Design, Class of 2025
+* djh126@pitt.edu
