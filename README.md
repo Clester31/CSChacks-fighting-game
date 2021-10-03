@@ -1,23 +1,15 @@
-# CSC Hacks Sample Project Repo
-
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9). Feel free to download / clone this repository as a starting point.
+# CSC Hacks - Fighting Game (name not final)
 
 ## Project Description
-*This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
-* We want to accomplish x, y, z, using technologies x, y, z.
-* We want to do this because of x, y, z.
-* Doing this will require learning x, y, z.
-* We anticipate the following challenges: x, y, z.
+For our CSC hacks project, we all wanted to create a game that was simple to understand and could easily be enjoyed. We decided on making an arcade style fighting game in Unity. We wanted to create this project to not only challenge ourselves by doing something completely new to us, but to also create something from the ground-up as a team and to gain valuable experience. In order to meet our goals and expectations, we will need to relearn and touch up on C# and Unity. Most of our team memebers have had past experience with unity however, so its mostly a process of relearning key components of the software. With only about a month of development until the deadline, we expect to run into some challenges regarding the implementation of all our ideas as some of them may not make it into the final build, but we are confident that we can still create an enjoyable user experience in our final product.
+
 
 ## Team Information
-Richie Goulazian
-* Pitt CS, 2023
-* rgoulazian@pitt.edu
-* Richie78321 in the CSC Discord
-* Check out my portfolio site! https://rgoulazian.com/
+Christian Lester
+* Pitt CS, 2025
+* CCL31n@pitt.edu
+* Clester050 in the CSC Discord
 
-Ming Wang
-* Pitt CS, 2022
-* zhw78@pitt.edu
-* He smells
-* https://www.linkedin.com/in/zhengmingwang/
+Rohan Walia
+Seth Pittsburg
+Daniel Hiss
